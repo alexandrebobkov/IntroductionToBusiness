@@ -220,3 +220,105 @@ Economic Health Score: _____ / 10
 _________________________________________________
 _________________________________________________
 _________________________________________________
+
+Part 4: Business Impact Analysis (20 minutes)
+---------------------------------------------
+
+### Scenario Planning
+Based on your dashboard data, analyze how current economic conditions might affect business decisions:
+
+**1. Hiring and Employment Decisions:**
+Current indicators suggest businesses in our industry should:
+☐ Increase hiring  ☐ Maintain current staffing  ☐ Consider layoffs  ☐ Freeze hiring
+
+**Explanation:**
+_________________________________________________
+_________________________________________________
+
+**2. Investment and Expansion Decisions:**
+Current indicators suggest businesses in our industry should:
+☐ Invest heavily in expansion  ☐ Make selective investments  ☐ Delay major investments  ☐ Focus on cost-cutting
+
+**Explanation:**
+_________________________________________________
+_________________________________________________
+
+**3. Pricing Strategy:**
+Current indicators suggest businesses in our industry should:
+☐ Raise prices  ☐ Maintain current prices  ☐ Offer discounts/promotions  ☐ Implement dynamic pricing
+
+**Explanation:**
+_________________________________________________
+_________________________________________________
+
+**4. Inventory Management:**
+Current indicators suggest businesses in our industry should:
+☐ Increase inventory levels  ☐ Maintain current levels  ☐ Reduce inventory  ☐ Diversify suppliers
+
+**Explanation:**
+_________________________________________________
+_________________________________________________
+
+## Part 5: Predictions and Recommendations (15 minutes)
+
+### 6-Month Economic Forecast
+Based on current trends, predict where each indicator will be in 6 months:
+
+| Indicator | Current | 6-Month Prediction | Confidence Level |
+|-----------|---------|-------------------|------------------|
+| GDP Growth | ____% | ____% | ☐High ☐Medium ☐Low |
+| Unemployment | ____% | ____% | ☐High ☐Medium ☐Low |
+| Inflation | ____% | ____% | ☐High ☐Medium ☐Low |
+| Interest Rates | ____% | ____% | ☐High ☐Medium ☐Low |
+
+### Business Recommendations
+**Top 3 recommendations for businesses in your focus industry:**
+
+1. **Immediate Actions (Next 30 days):**
+_________________________________________________
+_________________________________________________
+
+2. **Short-term Strategy (Next 3-6 months):**
+_________________________________________________
+_________________________________________________
+
+3. **Long-term Considerations (Next 1-2 years):**
+_________________________________________________
+_________________________________________________
+
+## Lab Presentation (Teams will present for 3 minutes each)
+
+**Prepare to present:**
+- Your economic dashboard (visual)
+- Most significant finding or trend
+- Top business recommendation for your industry
+- One surprising insight from your research
+
+## Reflection Questions
+
+1. Which economic indicator surprised you the most with its current value or trend?
+
+2. How interconnected are these economic indicators? Give one example.
+
+3. What challenges did you face in finding reliable, current economic data?
+
+4. How might small businesses versus large corporations respond differently to the same economic indicators in the Canadian context?
+
+5. What role does the Canadian dollar exchange rate play in your industry's performance?
+
+6. How do commodity prices (especially oil) affect the Canadian economy and your chosen industry?
+
+## Data Sources Used
+List all sources used for your research:
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+4. _________________________________________________
+5. _________________________________________________
+
+---
+
+**Submission Requirements:**
+- Completed handout with all sections filled out
+- Be prepared for team presentation
+- Individual reflection on the lab experience (1-2 paragraphs)
