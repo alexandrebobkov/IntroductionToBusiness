@@ -259,7 +259,8 @@ Current indicators suggest businesses in our industry should:
 _________________________________________________
 _________________________________________________
 
-## Part 5: Predictions and Recommendations (15 minutes)
+Part 5: Predictions and Recommendations (15 minutes)
+-----------------------------------------------------
 
 ### 6-Month Economic Forecast
 Based on current trends, predict where each indicator will be in 6 months:
@@ -286,7 +287,8 @@ _________________________________________________
 _________________________________________________
 _________________________________________________
 
-## Lab Presentation (Teams will present for 3 minutes each)
+Lab Presentation (Teams will present for 3 minutes each)
+---------------------------------------------------------
 
 **Prepare to present:**
 - Your economic dashboard (visual)
@@ -294,7 +296,8 @@ _________________________________________________
 - Top business recommendation for your industry
 - One surprising insight from your research
 
-## Reflection Questions
+Reflection Questions
+--------------------
 
 1. Which economic indicator surprised you the most with its current value or trend?
 
@@ -308,17 +311,20 @@ _________________________________________________
 
 6. How do commodity prices (especially oil) affect the Canadian economy and your chosen industry?
 
-## Data Sources Used
-List all sources used for your research:
-1. _________________________________________________
-2. _________________________________________________
-3. _________________________________________________
-4. _________________________________________________
-5. _________________________________________________
+Data Sources Used
+------------------
 
----
+List all sources used for your research:
+
+  1. _________________________________________________
+  2. _________________________________________________
+  3. _________________________________________________
+  4. _________________________________________________
+  5. _________________________________________________
+
 
 **Submission Requirements:**
-- Completed handout with all sections filled out
-- Be prepared for team presentation
-- Individual reflection on the lab experience (1-2 paragraphs)
+
+  - Completed handout with all sections filled out
+  - Be prepared for team presentation
+  - Individual reflection on the lab experience (1-2 paragraphs)
