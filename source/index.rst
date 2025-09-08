@@ -7,11 +7,3 @@
    :maxdepth: 3
    :numbered:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
