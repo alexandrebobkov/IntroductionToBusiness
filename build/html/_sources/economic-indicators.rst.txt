@@ -71,8 +71,8 @@ Indicator 1: Gross Domestic Product (GDP)
   - Volatile
 
 **Impact on your focus industry:**
-_________________________________________________
-_________________________________________________
+
+
 
 Indicator 2: Unemployment Rate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
