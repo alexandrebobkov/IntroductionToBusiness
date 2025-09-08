@@ -7,3 +7,5 @@
    :maxdepth: 3
    :numbered:
 
+   economic-indicators
+
