@@ -224,7 +224,9 @@ _________________________________________________
 Part 4: Business Impact Analysis (20 minutes)
 ---------------------------------------------
 
-### Scenario Planning
+Scenario Planning
+~~~~~~~~~~~~~~~~~~~
+
 Based on your dashboard data, analyze how current economic conditions might affect business decisions:
 
 **1. Hiring and Employment Decisions:**
@@ -262,7 +264,9 @@ _________________________________________________
 Part 5: Predictions and Recommendations (15 minutes)
 -----------------------------------------------------
 
-### 6-Month Economic Forecast
+6-Month Economic Forecast
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Based on current trends, predict where each indicator will be in 6 months:
 
 | Indicator | Current | 6-Month Prediction | Confidence Level |
@@ -272,7 +276,10 @@ Based on current trends, predict where each indicator will be in 6 months:
 | Inflation | ____% | ____% | ☐High ☐Medium ☐Low |
 | Interest Rates | ____% | ____% | ☐High ☐Medium ☐Low |
 
-### Business Recommendations
+
+Business Recommendations
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **Top 3 recommendations for businesses in your focus industry:**
 
 1. **Immediate Actions (Next 30 days):**
