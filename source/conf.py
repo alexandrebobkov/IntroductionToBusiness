@@ -33,3 +33,24 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
+# SimplePDF Customization
+
+imgmath_image_format = 'png'
+imgmath_dvi_png_args = ['-gamma', '1.5', '-D', '110', '-bg', 'Transparent']
+imgmath_use_preview = True
+
+simplepdf_style = 'default'
+simplepdf_coverpage = True
+simplepdf_toc_depth = 3
+simplepdf_title = 'Introduction to Business'
+simplepdf_author = 'Alexandre Bobkov'
+simplepdf_css = '_static/simplepdf.css'
+simplepdf_style = 'green'
+simplepdf_file_name = 'F25_410-B10_Introduction-to-Business-Handouts.pdf'
+simplepdf_vars = {
+    #'primary': "#23A3EC",
+    'links': '#FF3333',
+    'bottom-center-content': '"Introduction to Business"',
+    'bottom-right-content': '"Alexandre Bobkov"',
+}
