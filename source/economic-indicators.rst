@@ -269,15 +269,17 @@ Part 5: Predictions and Recommendations (15 minutes)
 
 Based on current trends, predict where each indicator will be in 6 months:
 
-+-----------+
-| Indicator | Current | 6-Month Prediction | Confidence Level |
-|-----------|---------|-------------------|------------------|
-| GDP Growth | ____% | ____% | ☐High ☐Medium ☐Low |
-| Unemployment | ____% | ____% | ☐High ☐Medium ☐Low |
-| Inflation | ____% | ____% | ☐High ☐Medium ☐Low |
-+----------------+-------+-------+----------------------+
-| Interest Rates |       |       |                      | 
-+--------------- +-------+-------+----------------------+
++----------------+---------+--------------------+----------------------+
+| Indicator      | Current | 6-Month Prediction | Confidence Level     |
++================+=========+====================+======================+
+| GDP Growth     |         |                    |                      |
++----------------+---------+--------------------+----------------------+
+| Unemployment   |         |                    |                      |
++----------------+---------+--------------------+----------------------+
+| Inflation      |         |                    |                      |
++----------------+---------+--------------------+----------------------+
+| Interest Rates |         |                    |                      |
++----------------+---------+--------------------+----------------------+
 
 
 Business Recommendations
