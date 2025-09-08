@@ -92,8 +92,7 @@ Indicator 2: Unemployment Rate
   - Volatile
 
 **Impact on your focus industry:**
-_________________________________________________
-_________________________________________________
+
 
 
 Indicator 3: Inflation Rate (Consumer Price Index)
@@ -113,8 +112,8 @@ Indicator 3: Inflation Rate (Consumer Price Index)
   - Volatile
 
 **Impact on your focus industry:**
-_________________________________________________
-_________________________________________________
+
+
 
 Indicator 4: Interest Rates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -134,8 +133,8 @@ Indicator 4: Interest Rates
   - Volatile
 
 **Impact on your focus industry:**
-_________________________________________________
-_________________________________________________
+
+
 
 Indicator 5: Stock Market Performance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -156,8 +155,8 @@ Indicator 5: Stock Market Performance
   - Volatile
 
 **Impact on your focus industry:**
-_________________________________________________
-_________________________________________________
+
+
 
 Indicator 6: Consumer Confidence Index
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -176,8 +175,8 @@ Indicator 6: Consumer Confidence Index
   - Volatile
 
 **Impact on your focus industry:**
-_________________________________________________
-_________________________________________________
+
+
 
 
 
@@ -217,9 +216,9 @@ Overall Economic Health Score
 Economic Health Score: _____ / 10
 
 **Justification:**
-_________________________________________________
-_________________________________________________
-_________________________________________________
+
+
+
 
 Part 4: Business Impact Analysis (20 minutes)
 ---------------------------------------------
@@ -242,24 +241,27 @@ Current indicators suggest businesses in our industry should:
 ☐ Invest heavily in expansion  ☐ Make selective investments  ☐ Delay major investments  ☐ Focus on cost-cutting
 
 **Explanation:**
-_________________________________________________
-_________________________________________________
+
+
+
 
 **3. Pricing Strategy:**
 Current indicators suggest businesses in our industry should:
 ☐ Raise prices  ☐ Maintain current prices  ☐ Offer discounts/promotions  ☐ Implement dynamic pricing
 
 **Explanation:**
-_________________________________________________
-_________________________________________________
+
+
+
 
 **4. Inventory Management:**
 Current indicators suggest businesses in our industry should:
 ☐ Increase inventory levels  ☐ Maintain current levels  ☐ Reduce inventory  ☐ Diversify suppliers
 
 **Explanation:**
-_________________________________________________
-_________________________________________________
+
+
+
 
 Part 5: Predictions and Recommendations (15 minutes)
 -----------------------------------------------------
@@ -288,16 +290,19 @@ Business Recommendations
 **Top 3 recommendations for businesses in your focus industry:**
 
 1. **Immediate Actions (Next 30 days):**
-_________________________________________________
-_________________________________________________
+
+
+
 
 2. **Short-term Strategy (Next 3-6 months):**
-_________________________________________________
-_________________________________________________
+
+
+
 
 3. **Long-term Considerations (Next 1-2 years):**
-_________________________________________________
-_________________________________________________
+
+
+
 
 Lab Presentation (Teams will present for 3 minutes each)
 ---------------------------------------------------------
