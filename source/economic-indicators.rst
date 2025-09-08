@@ -178,3 +178,42 @@ Indicator 6: Consumer Confidence Index
 **Impact on your focus industry:**
 _________________________________________________
 _________________________________________________
+
+
+
+Part 3: Dashboard Creation (25 minutes)
+-----------------------------------------
+
+**Instructions:** Create a visual dashboard using the template below. Use colors, charts, and symbols to make your data easily interpretable.
+
+**Economic Dashboard for: _________________ Industry**
+
+**Dashboard Date:** _________________
+
++---------------------+---------------+-------+-----------------+---------+
+| Indicator           | Current Value | Trend | Business Impact | Outlook |
++=====================+===============+=======+=================+=========+
+| GDP Growth          | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+|---------------------|---------------|-------|-----------------|---------|
+| Unemployment        | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+|---------------------|---------------|-------|-----------------|---------|
+| Inflation           | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+|---------------------|---------------|-------|-----------------|---------|
+| Interest Rates      | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+|---------------------|---------------|-------|-----------------|---------|
+| Stock Market        | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+|---------------------|---------------|-------|-----------------|---------|
+| Consumer Confidence | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+|---------------------|---------------|-------|-----------------|---------|
+
+**Legend:** ↑ = Rising, ↓ = Falling, → = Stable, ~ = Volatile
+
+### Overall Economic Health Score
+**Rate the current economic environment for your industry (1-10 scale):**
+
+Economic Health Score: _____ / 10
+
+**Justification:**
+_________________________________________________
+_________________________________________________
+_________________________________________________
