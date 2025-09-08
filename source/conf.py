@@ -18,7 +18,9 @@ release = 'Fall 2025 (v.25.09.05)'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    "sphinx_simplepdf",
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
