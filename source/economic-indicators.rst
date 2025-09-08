@@ -41,3 +41,140 @@ Part 1: Team Assignment and Indicator Selection
   - Financial Services/Banking  
   - Energy/Utilities  
   - Food Service/Hospitality  
+
+
+Part 2: Economic Indicators Research (30 minutes)
+-------------------------------------------------
+
+**Instructions:** Research current data for each indicator below. Use reliable sources such as:
+
+  - Bureau of Labor Statistics (bls.gov)
+  - Federal Reserve Economic Data (fred.stlouisfed.org)
+  - Bureau of Economic Analysis (bea.gov)
+  - Yahoo Finance, Bloomberg, or similar financial news sites
+
+Indicator 1: Gross Domestic Product (GDP)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Current Data:**
+
+  - Most recent quarterly GDP growth rate: _______%
+  - Year-over-year GDP change: _______%
+  - Data source: _________________________
+  - Date of data: ________________________
+
+**Trend Analysis (last 12 months):**
+
+  - Increasing
+  - Decreasing
+  - Stable
+  - Volatile
+
+**Impact on your focus industry:**
+_________________________________________________
+_________________________________________________
+
+Indicator 2: Unemployment Rate
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Current Data:**
+
+  - National unemployment rate: _______%
+  - Your state unemployment rate: _______%
+  - Data source: _________________________
+  - Date of data: ________________________
+
+**Trend Analysis (last 12 months):**
+
+  - Increasing
+  - Decreasing
+  - Stable
+  - Volatile
+
+**Impact on your focus industry:**
+_________________________________________________
+_________________________________________________
+
+
+Indicator 3: Inflation Rate (Consumer Price Index)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Current Data:**
+  - Annual inflation rate: _______%
+  - Core inflation rate (excluding food/energy): _______%
+  - Data source: _________________________
+  - Date of data: ________________________
+
+**Trend Analysis (last 12 months):**
+
+  - Increasing
+  - Decreasing
+  - Stable
+  - Volatile
+
+**Impact on your focus industry:**
+_________________________________________________
+_________________________________________________
+
+Indicator 4: Interest Rates
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Current Data:**
+  - Federal funds rate: _______%
+  - Prime lending rate: _______%
+  - 10-year Treasury yield: _______%
+  - Data source: _________________________
+  - Date of data: ________________________
+
+**Trend Analysis (last 12 months):**
+
+  - Increasing
+  - Decreasing
+  - Stable
+  - Volatile
+
+**Impact on your focus industry:**
+_________________________________________________
+_________________________________________________
+
+Indicator 5: Stock Market Performance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Current Data:**
+  - Dow Jones Industrial Average: _________
+  - S&P 500: _________
+  - NASDAQ: _________
+  - Your industry-specific index (if applicable): _________
+  - Data source: _________________________
+  - Date of data: ________________________
+
+**Trend Analysis (last 12 months):**
+
+  - Increasing
+  - Decreasing
+  - Stable
+  - Volatile
+
+**Impact on your focus industry:**
+_________________________________________________
+_________________________________________________
+
+Indicator 6: Consumer Confidence Index
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Current Data:**
+  - Consumer Confidence Index: _________
+  - Consumer Sentiment Index: _________
+  - Data source: _________________________
+  - Date of data: ________________________
+
+**Trend Analysis (last 12 months):**
+
+  - Increasing
+  - Decreasing
+  - Stable
+  - Volatile
+
+**Impact on your focus industry:**
+_________________________________________________
+_________________________________________________
