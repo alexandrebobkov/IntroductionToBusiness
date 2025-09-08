@@ -208,7 +208,9 @@ Part 3: Dashboard Creation (25 minutes)
 
 **Legend:** ↑ = Rising, ↓ = Falling, → = Stable, ~ = Volatile
 
-### Overall Economic Health Score
+Overall Economic Health Score
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **Rate the current economic environment for your industry (1-10 scale):**
 
 Economic Health Score: _____ / 10
