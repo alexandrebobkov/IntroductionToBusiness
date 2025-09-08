@@ -234,8 +234,8 @@ Current indicators suggest businesses in our industry should:
 ☐ Increase hiring  ☐ Maintain current staffing  ☐ Consider layoffs  ☐ Freeze hiring
 
 **Explanation:**
-_________________________________________________
-_________________________________________________
+
+
 
 **2. Investment and Expansion Decisions:**
 Current indicators suggest businesses in our industry should:
