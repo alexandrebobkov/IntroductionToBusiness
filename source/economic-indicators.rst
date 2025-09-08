@@ -193,17 +193,17 @@ Part 3: Dashboard Creation (25 minutes)
 +---------------------+---------------+-------+-----------------+---------+
 | Indicator           | Current Value | Trend | Business Impact | Outlook |
 +=====================+===============+=======+=================+=========+
-| GDP Growth          | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+| GDP Growth          |               |       |                 |         |
 |---------------------|---------------|-------|-----------------|---------|
-| Unemployment        | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+| Unemployment        |               |       |                 |         |
 |---------------------|---------------|-------|-----------------|---------|
-| Inflation           | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+| Inflation           |               |       |                 |         |
 |---------------------|---------------|-------|-----------------|---------|
-| Interest Rates      | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+| Interest Rates      |               |       |                 |         |
 |---------------------|---------------|-------|-----------------|---------|
-| Stock Market        | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+| Stock Market        |               |       |                 |         |
 |---------------------|---------------|-------|-----------------|---------|
-| Consumer Confidence | | ☐↑ ☐↓ ☐→ ☐~ | ☐Positive ☐Negative ☐Neutral | ☐Optimistic ☐Cautious ☐Concerned |
+| Consumer Confidence |               |       |                 |         |
 |---------------------|---------------|-------|-----------------|---------|
 
 **Legend:** ↑ = Rising, ↓ = Falling, → = Stable, ~ = Volatile
